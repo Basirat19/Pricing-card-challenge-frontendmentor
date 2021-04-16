@@ -159,4 +159,19 @@ button:hover {
 
 }
 
+@media(max-width:650px){
+
+    body{
+        padding: 0;
+       
+    }
+
+    #card, .maindiv, .leftdiv, .rightdiv{
+    width: 100%;
+    height: 100%;
+
+    }
+
+}
+
 
